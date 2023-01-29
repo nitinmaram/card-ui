@@ -25,7 +25,7 @@ This is the required backend micro service which serves the APIs
 
 ### 3. Start the React Application
 
-Once the Step 2 is done, come back into the cards-ui (current repo) and run:
+Once the Step 2 is done, come back into the card-ui (current repo) and run:
 
 ```sh
 npm start
