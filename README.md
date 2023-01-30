@@ -17,11 +17,11 @@ cd card-ui
 npm install
 ```
 
-### 2. Clone the card-microservice repo and install dependencies
+### 2. Clone the card-microservice repo which is the pre requisite for card-ui to run
 
 Please refer to https://github.com/nitinmaram/card-microservice/blob/main/readme.md
 
-This is the required backend micro service which serves the APIs
+This is the required backend micro service which serves the APIs for card-ui
 
 ### 3. Start the React Application
 
